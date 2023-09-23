@@ -1,0 +1,14 @@
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\bin\Debug\net7.0\TestedeAPI.exe
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\bin\Debug\net7.0\TestedeAPI.deps.json
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\bin\Debug\net7.0\TestedeAPI.runtimeconfig.json
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\bin\Debug\net7.0\TestedeAPI.dll
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\bin\Debug\net7.0\TestedeAPI.pdb
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\obj\Debug\net7.0\TestedeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\obj\Debug\net7.0\TestedeAPI.AssemblyInfoInputs.cache
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\obj\Debug\net7.0\TestedeAPI.AssemblyInfo.cs
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\obj\Debug\net7.0\TestedeAPI.csproj.CoreCompileInputs.cache
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\obj\Debug\net7.0\TestedeAPI.dll
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\obj\Debug\net7.0\refint\TestedeAPI.dll
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\obj\Debug\net7.0\TestedeAPI.pdb
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\obj\Debug\net7.0\TestedeAPI.genruntimeconfig.cache
+C:\Users\yguga\source\repos\TestedeAPI\TestedeAPI\obj\Debug\net7.0\ref\TestedeAPI.dll
